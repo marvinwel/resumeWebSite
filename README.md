@@ -33,7 +33,7 @@ I set up my Raspberry Pi as a web server to host the website:
 
 ## Accessing the Website
 
-Now, my personal website is accessible to the world by visiting [resume.com](http://www.marvinresume.com). The domain name points to my Raspberry Pi, and users can view my portfolio and blog posts from anywhere.
+Now, my personal website is accessible to the world by visiting [marvinresume.com](http://www.marvinresume.com). The domain name points to my Raspberry Pi, and users can view my portfolio and blog posts from anywhere.
 
 ## Conclusion
 
